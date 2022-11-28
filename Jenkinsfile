@@ -8,5 +8,3 @@ pipeline {
         }
     }
 }
-
-# Random change
